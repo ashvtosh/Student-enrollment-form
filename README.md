@@ -5,7 +5,7 @@ Description:
 This project involves creating a student enrollment form that will store data in the STUDENT-TABLE relation of the SCHOOL-DB database. The form will accept input fields such as Roll-No, Full-Name, Class, Birth-Date, Address, and Enrollment-Date. The primary key for the STUDENT-TABLE will be Roll No.
 
 Release History:
-Version 1.0 (April 26, 2023): Initial release of the Student Enrollment Form using JsonPowerDB on Github.
+Version 1.0 (July 21, 2024): Initial release of the Student Enrollment Form using JsonPowerDB on Github.
 Table of contents:
 
 Introduction
